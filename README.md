@@ -5,5 +5,9 @@
 - 💡 Aprendiendo Java (Jakarta)
 - 🎮 Me encantan los videojuegos 🎬 series y películas 🏋️‍♀️ como también hacer ejercicios
 
+#### 🙍‍♂️ **Redes sociales** 
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/emerson-borda-sanchez-109857181/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="25px" width="25px" style="max-width: 100%;"></a>
+
 
 
