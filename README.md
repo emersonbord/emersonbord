@@ -2,7 +2,7 @@
 
 ### 👀 **Sobre mí** 
 - 📃 Mi nombre es Emerson Borda, Ingeniero en Informática 👨‍💻 con muchas ganas de aprender Java a profundidad, me cautiva el aprendizaje contínuo y espero compartir lo aprendido con ustedes.
-- 💡 Aprendiendo Java (Jakarta)
+- 💡 Aprendiendo Java, Jakarta
 - 🎮 Me encantan los videojuegos 🎬 series y películas 🏋️‍♀️ como también hacer ejercicios
 
 #### 🙍‍♂️ **Redes sociales** 
