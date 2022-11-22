@@ -3,6 +3,6 @@
 ### 👀 **Sobre mí** 
 - 📃 Mi nombre es Emerson Borda, Ingeniero en Informática ambientado en el desarrollo de software en Java que es mi pasión
 - 💡 Java, Jakarta, SQL Stored Procedures
-- 🎮 Me encantan los videojuegos 🎬 series y películas 🏋️‍♀️ como también hacer ejercicios
+- 🎮 Videojuegos 🎬 series y películas 🏋️‍♀️ ejercicios ✈ viajes
 
 
